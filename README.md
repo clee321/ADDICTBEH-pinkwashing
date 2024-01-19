@@ -21,9 +21,16 @@ The Analysis Parent File lists in sequence all the necessary code for the analys
 
 Folder tree of zip file:
 
-* Project folders-files/Data/Raw Data.xlsx
-* Project folders-files/Data/Stata/
-* Project folders-files/Analysis/Demo table/
-* Project folders-files/Analysis/Results/
+```bash
+Project folders-files/
+│
+├── Data/
+│   └──Stata/
+│   └──Raw Data.xlsx
+│
+└── Analysis/
+    └──Demo table/
+    └──Results/
+```
 
 *****
