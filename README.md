@@ -1,7 +1,7 @@
 ## Replication files for "The impact of 'pinkwashed' alcohol advertisements on attitudes and beliefs: A randomized experiment with US adults"
 
 ### Description
-This repository includes Stata code, folder structure, and raw data files to reproduce the analysis of the manuscript "The impact of 'pinkwashed' alcohol advertisements on attitudes and beliefs: A randomized experiment with US adults"
+This repository includes Stata code, folder structure, and raw data file to reproduce the analysis of the manuscript "The impact of 'pinkwashed' alcohol advertisements on attitudes and beliefs: A randomized experiment with US adults"
 
 ### Instructions to reproduce the analysis:
 
