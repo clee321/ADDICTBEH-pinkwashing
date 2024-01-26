@@ -1,6 +1,7 @@
 *Analysis Parent File
 
 *Replace xxx with your Stata username
+	*If you forgot your username, use the following command: [display "`c(username)'"] 
 *Replace yyy with the applicable folder location
 
 *User file paths
